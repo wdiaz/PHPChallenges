@@ -10,4 +10,4 @@ function isPalindrome($str) {
     return $first == $last && isPalindrome(substr($str,1, strlen($str)-2));
 }
 
-printf("racecar: %s", isPalindrome('racecar'));
+printf("racecar: %s\n", isPalindrome('racecar'));
