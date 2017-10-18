@@ -1,6 +1,6 @@
 <?php
 /**
- * Write a script that determines if a script is palindrome or not
+ * Write a script that determines if a word is palindrome or not
  * Use Arrays
  */
 
